@@ -1,0 +1,10 @@
+nav
+{
+    width: 100%;
+    min-height: 75px;
+}
+nav ul{
+    margin-top: 0px;
+    min-height: 50px;
+    opacity: 0;
+}
